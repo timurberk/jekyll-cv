@@ -36,11 +36,27 @@ skills:
   - category: Vatandaşlıklar
     skill:
       - Türkiye
+      - Bulgaristan      
+  - category: Doğum Yeri
+    skill:
       - Bulgaristan
+  - category: Doğum Tarihi
+    skill:
+      - 18.04.1979
+  - category: Askerlik Durumu
+    skill:
+      - Muaf 
+  - category: Sürücü Belgesi
+    skill:
+      - Yok 
+  - category: Referans
+    skill:
+      - Oskun Anar
+
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  COVID salgını sırasında kLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
   tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
   quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
   Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
@@ -100,7 +116,7 @@ projects:
 
 # Volunteering
 volunteering:
-  - time: 1999 yılından bugüne
+  - time: 1999-
     role: Gönüllü Lideri
     company: Kırım Türkleri Derneği İstanbul Şb.
     details: |
