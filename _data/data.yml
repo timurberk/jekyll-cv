@@ -11,18 +11,18 @@ contact:
   gitlab: 
   twitter: timurberk_com
   home: Beylikdüzü / İstanbul
-      
-education:
-  - degree: Elektronik Müh.
-    time: 2006
-    university: İstanbul Üniversitesi
-
-languages:
+  
+  languages:
   - idiom: İngilizce B2
   - idiom: Rusça B2
   - idiom: Bulgarca B2 
   - idiom: Ukraince B1
   - idiom: İspanyolca A1
+      
+education:
+  - degree: Elektronik Müh.
+    time: 2006
+    university: İstanbul Üniversitesi
 
 skills:
   - category: Sertifikalar
@@ -48,17 +48,19 @@ profile: |
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Satınalma Müdürü
+    time: 2016-2020
+    company: GMS Pano Elektrik San. ve Tic. A.Ş.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+    • Malzeme satınalma prosesini yönetmek.
+    • Talep edilen malzemeleri veya muadillerini piyasada araştırmak, pazarlık etmek
+    • Teklif sunumundan satışa tüm tedarik zincirinde malzeme talep ve hareketlerini Logo Tiger’a entegre etmek, işlemlerin doğru yapıldığının kontrolü ve sistemin geliştirilmesi.
+    • Deponun yönetimi, sac malzeme stok kartları sisteminin oluşturulması. 
+Liste fiyatlarındaki değişiklikleri takip ederek hesap işlemlerinde kullanılan fiyat listelerinin güncellenmesini sağlamak.
+    • Şirketin yabancılarla olan yazışmalarını veya görüşmelerini İngilizce veya Rusça olarak gerçekleştirmek.
+    • Ticaret Bakanlığı/İMMİB, KOSGEB vb. Resmi kurumlardaki destek programlarına başvuruları yapmak.
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Logo Tiger, Excel
   
   - role: Researcher
     time: 2016-2020
