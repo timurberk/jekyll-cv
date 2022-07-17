@@ -19,6 +19,15 @@
             </a>
         </div>
     {% endif %}
+    
+    {% if contact.home %}
+        <div class="contact-item">
+            <i data-feather="home"></i>
+            <a href="#">
+                {{contact.home}}
+            </a>
+        </div>
+    {% endif %}
 
     {% if contact.github %}
         <div class="contact-item">
