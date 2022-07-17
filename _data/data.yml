@@ -1,29 +1,25 @@
-name: John Doe
+name: Timur Berk
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
+  email: timurberk.com@gmail.com
+  github: 
+  linkedin: timurberk
+  phone: +90 551 550 94 28
   gitlab: 
-  twitter: 
+  twitter: timurberk_com 
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: İngilizce
+  - idiom: Rusça
+  - idiom: Bulgarca
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Elektronik Müh.
+    time: 2016
+    university: İstanbul Üniversitesi
 
 skills:
   - category: Backend
