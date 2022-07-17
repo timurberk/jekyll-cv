@@ -1,6 +1,6 @@
 name: Timur Berk
 support_dark_mode: true
-fork: true
+fork: false
 
 # Sidebar
 contact:
@@ -9,7 +9,22 @@ contact:
   linkedin: timurberk
   phone: +90 551 550 94 28
   gitlab: 
-  twitter: timurberk_com 
+  twitter: timurberk_com
+  home: Beylikdüzü / İstanbul
+  
+skills:
+  - category: Sertifikalar
+    skill:
+      - ISO 9001 İç Tetkikçi (TSE)
+      - Emlak Danışmanı (İSMEK, MEB)
+  - category: Ofis Programları
+    skill: 
+      - Logo Tiger
+      - Excel
+  - category: Vatandaşlıklar
+    skill:
+      - Türkiye
+      - Bulgaristan
 
 languages:
   - idiom: İngilizce B2
@@ -35,7 +50,7 @@ skills:
   - category: Vatandaşlıklar
     skill:
       - Türkiye
-      - Bulgaristan 
+      - Bulgaristan
 
 # Profile
 profile: |
