@@ -11,20 +11,6 @@ contact:
   gitlab: 
   twitter: timurberk_com
   home: Beylikdüzü / İstanbul
-  
-skills:
-  - category: Sertifikalar
-    skill:
-      - ISO 9001 İç Tetkikçi (TSE)
-      - Emlak Danışmanı (İSMEK, MEB)
-  - category: Ofis Programları
-    skill: 
-      - Logo Tiger
-      - Excel
-  - category: Vatandaşlıklar
-    skill:
-      - Türkiye
-      - Bulgaristan
       
 education:
   - degree: Elektronik Müh.
@@ -114,7 +100,7 @@ projects:
 volunteering:
   - time: 1999 yılından bugüne
     role: Gönüllü Lideri
-    company: Kırım Türkleri Kültür ve Yardımlaşma Derneği İstanbul Şb.
+    company: Kırım Türkleri Derneği İstanbul Şb.
     details: |
       Derneğin basılı haber bülteninin 10 bin tirajlı dergiye ulaşmasını sağlayan takımın önemli bir parçası oldum, 
       Gençlik Komisyonuna başkanlık edip halk oyunları takımının kurulmasına liderlik ettim, 
