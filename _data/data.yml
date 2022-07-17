@@ -12,24 +12,25 @@ contact:
   twitter: timurberk_com 
 
 languages:
-  - idiom: İngilizce
-  - idiom: Rusça
-  - idiom: Bulgarca
+  - idiom: İngilizce B2
+  - idiom: Rusça B2
+  - idiom: Bulgarca B2 
+  - idiom: Ukraince B1
 
 education:
   - degree: Elektronik Müh.
-    time: 2016
+    time: 2006
     university: İstanbul Üniversitesi
 
 skills:
-  - category: Backend
-    skill: 
-      - Go
-      - Rust
-  - category: Frontend
+  - category: Sertifikalar
     skill:
-      - React
-      - Typescript
+      - ISO 9001 İç Denetçi (TSE onaylı)
+      - Emlak Danışmanı (MEB onaylı)
+  - category: Ofis Programları
+    skill: 
+      - Logo Tiger
+      - Excel
   - category: DevOps
     skill:
       - Docker
