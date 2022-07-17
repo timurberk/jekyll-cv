@@ -16,6 +16,7 @@ languages:
   - idiom: Rusça B2
   - idiom: Bulgarca B2 
   - idiom: Ukraince B1
+  - idiom: İspanyolca A1
 
 education:
   - degree: Elektronik Müh.
@@ -25,16 +26,16 @@ education:
 skills:
   - category: Sertifikalar
     skill:
-      - ISO 9001 İç Denetçi (TSE onaylı)
-      - Emlak Danışmanı (MEB onaylı)
+      - ISO 9001 İç Tetkikçi (TSE)
+      - Emlak Danışmanı (İSMEK, MEB)
   - category: Ofis Programları
     skill: 
       - Logo Tiger
       - Excel
-  - category: DevOps
+  - category: Vatandaşlıklar
     skill:
-      - Docker
-      - Kubernetes 
+      - Türkiye
+      - Bulgaristan 
 
 # Profile
 profile: |
