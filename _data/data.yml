@@ -25,6 +25,11 @@ skills:
     skill:
       - Türkiye
       - Bulgaristan
+      
+education:
+  - degree: Elektronik Müh.
+    time: 2006
+    university: İstanbul Üniversitesi
 
 languages:
   - idiom: İngilizce B2
@@ -32,11 +37,6 @@ languages:
   - idiom: Bulgarca B2 
   - idiom: Ukraince B1
   - idiom: İspanyolca A1
-
-education:
-  - degree: Elektronik Müh.
-    time: 2006
-    university: İstanbul Üniversitesi
 
 skills:
   - category: Sertifikalar
