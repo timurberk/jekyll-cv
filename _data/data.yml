@@ -82,13 +82,23 @@ publications:
   - title: Uluslararası Pazarlara Nasıl Erişilir
     link: "https://learning.intracen.org/verify/?q=cNXEX8pXTq"
     authors: ITC SME Trade Academy
-    conference: Kilit terimler ve kavramları öğrenerek ITC's Market Access Map aracını kullanarak pazara erişim şartlarının analizini yapabilmeyi, potansiyel ülke pazarlarını kıyaslayabilmeyi öğrendim.
+    conference: Temel terim ve kavramları öğrenerek ITC'nin Market Access Map aracını kullanarak pazara erişim şartlarının analizini yapabilmeyi, potansiyel ülke pazarlarını kıyaslayabilmeyi öğrendim.
+
+  - title: Uluslararası Taşımacılık ve Lojistiğe Giriş
+    link: "https://learning.intracen.org/verify/?q=QxWVaQG89J"
+    authors: ITC SME Trade Academy
+    conference: Lojistik zinciriyle deniz ve hava taşımacılığının temel hususlarını öğrendim.
 
   - title: Second title of paper. An interesting one too.
+    link: "https://learning.intracen.org/verify/?q=wRNabpDUui"
+    authors: ITC SME Trade Academy
+    conference: ITC'nin Trade Map aracını kullanarak belirli bir ürünün belirli bir ülkeye hareketi göstergelerine dayalı yorumlar yapabilmeyi öğrendim.
+    
+  - title: Second title of paper. An interesting one too.
     link: "#"
-    authors: John E. Doe
+    authors: ITC SME Trade Academy
     conference: Some conference again, 2018
-
+    
 projects:
   - title: Cool Project 
     link: #
