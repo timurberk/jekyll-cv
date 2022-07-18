@@ -1,129 +1,108 @@
-name: Timur Berk
+name: John Doe
 support_dark_mode: true
-fork: false
+fork: true
 
 # Sidebar
 contact:
-  email: timurberk.com@gmail.com
-  github: 
-  linkedin: timurberk
-  phone: +90 551 550 94 28
+  email: info@johndoe.com
+  github: johndoe
+  linkedin: johndoe
+  phone: 
   gitlab: 
-  twitter: timurberk_com
-  home: Beylikdüzü / İstanbul
-  
-  languages:
-  - idiom: İngilizce B2
-  - idiom: Rusça B2
-  - idiom: Bulgarca B2 
-  - idiom: Ukraince B1
-  - idiom: İspanyolca A1
-      
+  twitter: 
+
+languages:
+  - idiom: English
+  - idiom: Russian
+  - idiom: French
+
 education:
-  - degree: Elektronik Müh.
-    time: 2006
-    university: İstanbul Üniversitesi
+  - degree: MSc in Informatics
+    time: 2014-2016
+    university: Ionian University
+
+  - degree: BSc in Computer Science
+    time: 2010-2014
+    university: Ionian University
 
 skills:
-  - category: Sertifikalar
-    skill:
-      - ISO 9001 İç Tetkikçi (TSE)
-      - Emlak Danışmanı (İSMEK, MEB)
-  - category: Ofis Programları
+  - category: Backend
     skill: 
-      - Logo Tiger
-      - Excel
-  - category: Vatandaşlıklar
+      - Go
+      - Rust
+  - category: Frontend
     skill:
-      - Türkiye
-      - Bulgaristan      
-  - category: Doğum Yeri
+      - React
+      - Typescript
+  - category: DevOps
     skill:
-      - Bulgaristan
-  - category: Doğum Tarihi
-    skill:
-      - 18.04.1979
-  - category: Askerlik Durumu
-    skill:
-      - Muaf 
-  - category: Sürücü Belgesi
-    skill:
-      - Yok 
-  - category: Referans
-    skill:
-      - Oskun Anar
-
+      - Docker
+      - Kubernetes 
 
 # Profile
 profile: |
-  COVID salgını döneminde kariyer değişikliği yaparak elektrik-elektronik sektöründe dış ticarete yönelmeye karar verdim. 
-  Buna yönelik olarak yurtiçi ve yurtdışı online kaynaklarından gerekli olacak bilgileri edinmeye çalıştım.
-  Sosyal medya üzerinden pazarlama çalışmaları yapabilmek için görsel tasarım programı (GIMP) kullanmayı öğrendim.
-  Bildiğim diller ve sahip olduğum Bulgaristan pasaportuyla birçok ülkeye seyahatleri sorunsuz yapabilirim.
-  Halen Beylikdüzü'nda otursam da Kurtköy'da sahip olduğumuz daireye taşınabilirim veya bazı günler orada kalabilirim.
+  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+  fugiat nulla pariatur.
 
 # Experience
 experience:
-  - role: Satınalma Müdürü
-    time: 2016-2020
-    company: GMS Pano Elektrik San. ve Tic. A.Ş.
+  - role: Software Engineer
+    time: 2020-Present
+    company: Google
     details: |
-      Binlerce farklı elektrik malzemesinin satınalma sürecini yönettim. Tedakirçi adaylarını inceledim, fiyat pazarlıklarını gerçekleştirdim.
-      Depo personeline amirlik yaptım. 
-      Logo Tiger programını kullanıcı seviyesinde öğrenerek irsaliye ve fatura işlemlerinin yanı sıra
-      stok kartı ve hareket fişlerinin yönetimini disiplin altına soktum. 
-      Şirketin yabancılarla olan yazışma veya telefon görüşmelerini İngilizce veya Rusça olarak gerçekleştirdim.
-      Ticaret Bakanlığı/İMMİB, KOSGEB vb. resmi kurumlardaki destek programlarına başvurular yaptım.
-      Büyük şirketlerin tedarik zincirine dahil olmak için gerekli dokümantasyon işlerini üstlendim, ISO 9001 İç Tetkikçi sertifikası aldım.
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
     technologies_used: | 
-      Logo Tiger, Excel
+      Go, Angular, Typescript, C++
+  
+  - role: Researcher
+    time: 2016-2020
+    company: Microsoft
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
+      fugiat nulla pariatur.
+    technologies_used: | 
+      Python, Tensorflow, Keras, Matlab
 
 publications:
-  - title: Uluslararası Pazarlara Nasıl Erişilir
-    link: "https://learning.intracen.org/verify/?q=cNXEX8pXTq"
-    authors: ITC SME Trade Academy
-    conference: Temel terim ve kavramları öğrenerek ITC'nin Market Access Map aracını kullanarak pazara erişim şartlarının analizini yapabilmeyi, potansiyel ülke pazarlarını kıyaslayabilmeyi öğrendim.
+  - title: Random title of paper. An interesting one.
+    link: "#"
+    authors: John E. Doe
+    conference: Some conference, 2016
 
-  - title: Uluslararası Taşımacılık ve Lojistiğe Giriş
-    link: "https://learning.intracen.org/verify/?q=QxWVaQG89J"
-    authors: ITC SME Trade Academy
-    conference: Lojistik zinciriyle deniz ve hava taşımacılığının temel hususlarını öğrendim.
-
-  - title: Ticaret Hareketleri Nasıl Analiz Edilir
-    link: "https://learning.intracen.org/verify/?q=wRNabpDUui"
-    authors: ITC SME Trade Academy
-    conference: ITC'nin Trade Map aracını kullanarak belirli bir ürünün belirli bir ülkeye hareketi göstergelerine dayalı yorumlar yapabilmeyi öğrendim.
-    
-  - title: Rekabet İstihbaratı
-    link: "https://learning.intracen.org/verify/?q=FYXOO7k87w"
-    authors: ITC SME Trade Academy
-    conference: Ekonomik istihbarat için bilgi toplama sistemlerinin tasarlanması, izleme konularının belirlenmesi, çıktıların üretilmesi, bilgi analizi, risk yönetimi gibi temel konuları uygulamalı olarak öğrendim. 
-    
   - title: Second title of paper. An interesting one too.
     link: "#"
-    authors: ITC SME Trade Academy
+    authors: John E. Doe
     conference: Some conference again, 2018
-    
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: ITC SME Trade Academy
-    conference: Some conference again, 2018
-    
- projects:
-  - title:  
-    link: #
-    details: |
 
- - title:  
+projects:
+  - title: Cool Project 
     link: #
     details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 volunteering:
-  - time: 1999-
-    role: Gönüllü Lideri
-    company: Kırım Türkleri Derneği İstanbul Şb.
+  - time: 2020-Present
+    role: PR Manager
+    company: Some random organization
     details: |
-      Derneğin basılı haber bülteninin 10 bin tirajlı dergiye ulaşmasını sağlayan takımın önemli bir parçası oldum, 
-      Gençlik Komisyonuna başkanlık edip halk oyunları takımının kurulmasına liderlik ettim, 
-      Kırım'a yerleşerek çalıştığım Kırım Haber Ajansı ile Türkiye'yi gelişmelerden haberdar ettim. 
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
+      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
