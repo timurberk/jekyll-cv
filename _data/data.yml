@@ -89,29 +89,27 @@ publications:
     authors: ITC SME Trade Academy
     conference: Lojistik zinciriyle deniz ve hava taşımacılığının temel hususlarını öğrendim.
 
-  - title: Second title of paper. An interesting one too.
+  - title: Ticaret Hareketleri Nasıl Analiz Edilir
     link: "https://learning.intracen.org/verify/?q=wRNabpDUui"
     authors: ITC SME Trade Academy
     conference: ITC'nin Trade Map aracını kullanarak belirli bir ürünün belirli bir ülkeye hareketi göstergelerine dayalı yorumlar yapabilmeyi öğrendim.
+    
+  - title: Rekabet İstihbaratı
+    link: "https://learning.intracen.org/verify/?q=FYXOO7k87w"
+    authors: ITC SME Trade Academy
+    conference: Ekonomik istihbarat için bilgi toplama sistemlerinin tasarlanması, izleme konularının belirlenmesi, 
+    çıktıların üretilmesi, bilgi analizi, risk yönetimi gibi temel konuları uygulamalı olarak öğrendim. 
     
   - title: Second title of paper. An interesting one too.
     link: "#"
     authors: ITC SME Trade Academy
     conference: Some conference again, 2018
     
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
+  - title: Second title of paper. An interesting one too.
+    link: "#"
+    authors: ITC SME Trade Academy
+    conference: Some conference again, 2018
+    
 # Volunteering
 volunteering:
   - time: 1999-
