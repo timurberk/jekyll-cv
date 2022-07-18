@@ -110,6 +110,18 @@ publications:
     authors: ITC SME Trade Academy
     conference: Some conference again, 2018
     
+ projects:
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+  - title: Cool Project 
+    link: #
+    details: |
+      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+      tempor incididunt ut labore et dolore magna aliqua.
+
 # Volunteering
 volunteering:
   - time: 1999-
