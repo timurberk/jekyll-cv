@@ -84,11 +84,6 @@ publications:
     authors: ITC SME Trade Academy
     conference: Temel terim ve kavramları öğrenerek ITC'nin Market Access Map aracını kullanarak pazara erişim şartlarının analizini yapabilmeyi, potansiyel ülke pazarlarını kıyaslayabilmeyi öğrendim.
 
-  - title: Uluslararası Taşımacılık ve Lojistiğe Giriş
-    link: "https://learning.intracen.org/verify/?q=QxWVaQG89J"
-    authors: ITC SME Trade Academy
-    conference: Lojistik zinciriyle deniz ve hava taşımacılığının temel hususlarını öğrendim.
-
   - title: Ticaret Hareketleri Nasıl Analiz Edilir
     link: "https://learning.intracen.org/verify/?q=wRNabpDUui"
     authors: ITC SME Trade Academy
@@ -104,19 +99,6 @@ publications:
     authors: ITC SME Trade Academy
     conference: Sevkiyat öncesi ve sonrası finansman seçenekleri arasında uygun olanlarının belirlenmesi ve uygulanmasını, ödeme risklerini yönetmeyi öğrendim.
       
-projects:
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
-  - title: Cool Project 
-    link: #
-    details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
-
 # Volunteering
 volunteering:
   - time: 1999-
